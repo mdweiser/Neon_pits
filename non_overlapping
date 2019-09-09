@@ -39,3 +39,5 @@ cd merged
 ./usearch11.0.667_i86osx32 -fastx_get_sample_names stripped.fq -output samples.txt
 
 # Run remaining code as if overlapping. Make sure to run script on both R1 and R2. Compare output.
+
+#test
